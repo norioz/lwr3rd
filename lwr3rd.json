@@ -1,0 +1,9 @@
+{
+    "apps": [
+	{
+	    "name": "lwr3rd",
+	    "script": "npm",
+	    "args": "run serve"
+	}
+    ]
+}
